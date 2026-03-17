@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="taller cumpnet2" id="309EA82D-3665-0F80-A8A9-E88EEE33BF8F" version="3.5">
+<createdBy>ASUS</createdBy>
+<createdTime>2026-02-26 16:19:29 UTC</createdTime>
+<ownerDesignName>taller cumpnet2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>309EA82D-3665-0F80-A8A9-E88EEE33BF8F</designId>
+</OSDM_Design>
